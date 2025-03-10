@@ -12,3 +12,18 @@ IP Address: An IP address is a unique numerical identifier that is assigned to e
 DNS: The Domain Name System (DNS) is a protocol that is used to translate human-readable domain names (such as www.google.com) into IP addresses that computers can understand.
 Firewall: A firewall is a security device that is used to monitor and control incoming and outgoing network traffic. Firewalls are used to protect networks from unauthorized access and other security threats.
 How Does a Computer Network Work?
+Basics building blocks of a Computer network are Nodes and Links. A Network Node can be illustrated as Equipment for Data Communication like a Modem, Router, etc., or Equipment of a Data Terminal like connecting two computers or more. Link in Computer Networks can be defined as wires or cables or free space of wireless networks.
+
+The working of Computer Networks can be simply defined as rules or protocols which help in sending and receiving data via the links which allow Computer networks to communicate. Each device has an IP Address, that helps in identifying a device.
+
+What do Computer Networks do?
+Computer networks first developed in 1950 for military and defense purpose. At that time they are mainly used to send data through telephone lines and had limited use in business or science.
+
+Today computer networks are essential for businesses also. Modern networks offer more than just connecting devices. They play a key role in helping businesses adapt to the digital world and succeed. These networks have become more flexible, automated, and secure, making them even more important in today’s business environment.
+
+Modern computer networks can:
+
+Work Virtually: The physical network can be divided into smaller virtual networks. In these virtual networks, devices are connected and can send data through multiple physical routes. For example, many business networks use the internet this way.
+Connect on a Large Scale: Modern networks link many smaller, spread-out networks into one big, powerful system. Automation and monitoring tools help manage and adjust the network as needed, allowing it to grow or shrink based on demand.
+Adapt Quickly: Many networks are controlled by software, so changes can be made quickly through a digital dashboard. This allows traffic to be managed easily.
+Keep Data Secure: Built-in security features like encryption and access control protect data. Additional protections like antivirus software, firewalls, and malware protection can be added to strengthen network security.
